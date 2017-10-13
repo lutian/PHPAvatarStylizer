@@ -1,0 +1,22 @@
+{
+    "name": "lutian/PHPAvatarStylizer",
+    "version": "1.0.0",
+    "type": "library",
+    "description": "Define automatically background color and text color depends on avatar predominant color",
+    "keywords": ["lutian", "PHPAvatarStylizer", "text processing"],
+    "homepage": "https://github.com/lutian/PHPAvatarStylizer.git",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Luciano Salvino",
+            "email": "lsalvino@hotmail.com",
+            "homepage": "http://getwayto.me"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "autoload": {
+        "psr-4": { "Lutian\\PHPAvatarStylizer\\": "/" }
+    }
+}
